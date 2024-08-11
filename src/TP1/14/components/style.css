@@ -1,0 +1,14 @@
+.personal-card {
+    margin: 15px;
+    padding: 20px 15px;
+    background-color: rgb(171, 142, 132);
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.personal-card img {
+    padding-top: 20px;
+    height: 180px;
+}

@@ -1,0 +1,16 @@
+.projects-card {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+
+.projects-item {
+    background-color: rgb(73, 98, 90);
+    height: 300px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.projects-item img {
+    height: 200px;
+}
